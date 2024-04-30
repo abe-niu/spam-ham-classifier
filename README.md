@@ -1,0 +1,1 @@
+Built a logistic regression classifier that can distinguish spam emails from non-spam emails, utilizing concepts including feature engineering and cross validation as part of Data 100: Principles and Techniques of Data Science.
