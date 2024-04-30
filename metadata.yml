@@ -1,0 +1,12 @@
+---
+:id: 40809549
+:submitters:
+- :name: Abraham Niu
+  :email: abrahamniu@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-08-06 06:03:32.519063000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-08-05 23:03:32.519063000 Z
+:status: processed
+:score: 16.0
